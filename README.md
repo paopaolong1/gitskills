@@ -4,4 +4,4 @@
 creating a new branch is quick
 d
 
-mod on master
+git switch -c ,c : create on master
